@@ -24,15 +24,15 @@ MercadoPago.post("/", async (req, res) => {
                     brand: product.brand,
                     unit_price: product.price,
                     currency_id: "CLP",
-                    quantity: product.quantity,
-                    sku: product.sku,
-                    description: product.description
+                    quantity: 1,
+                    sku: product.sku
+
                 },
             ],
 
             back_urls: {
-                success: "http://localhost:3000/v1/success",
-                failure: "http://localhost:3000/v1/failure",
+                success: "http://localhost:5173/",
+                failure: "http://localhost:5173/catalogo",
 
 
             },
