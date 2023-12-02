@@ -1,4 +1,4 @@
-Aquí tienes un ejemplo de un archivo README para tu proyecto de servidor API:
+
 
 ```markdown
 # Servidor API para Tienda de Bicicletas 🚲
