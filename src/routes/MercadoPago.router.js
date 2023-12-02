@@ -32,7 +32,7 @@ MercadoPago.post("/", async (req, res) => {
 
             back_urls: {
                 success: "https://valladaresrolo.github.io/catalogFront/",
-                failure: "http://localhost:5173/catalogo",
+                failure: "https://valladaresrolo.github.io/catalogFront/failure",
 
 
             },
