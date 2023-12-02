@@ -51,6 +51,3 @@ Las contribuciones son siempre bienvenidas. Por favor, consulta las `CONTRIBUTIN
 ## Licencia 📄
 
 Este proyecto está licenciado bajo la licencia MIT. Consulta el archivo `LICENSE.md` para más detalles.
-```
-
-Espero que esto te ayude a empezar con tu archivo README. ¡Buena suerte con tu proyecto! 😊
